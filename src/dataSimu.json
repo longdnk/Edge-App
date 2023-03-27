@@ -1,0 +1,30 @@
+[
+    {
+        "key": 0,
+        "id": "0",
+        "name": "Ham Tan",
+        "children": [
+            {
+                "key": 1.5809700486709211e+38,
+                "id": "76f06025f47841239883ef343ddfe411",
+                "name": "Inverter_1",
+                "children": [
+                    {
+                        "key": 5.84953030158826e+36,
+                        "id": "0466941c4d1f4613927c72f369bf9a44",
+                        "name": "Hz",
+                        "dataType": "Int32",
+                        "unit": ""
+                    },
+                    {
+                        "key": 1.5778428165932548e+38,
+                        "id": "76b425b426984de39b817409accfdf01",
+                        "name": "kWH",
+                        "dataType": "Int32",
+                        "unit": ""
+                    }
+                ]
+            }
+        ]
+    }
+]
