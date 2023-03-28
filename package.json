@@ -19,7 +19,8 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "dev": "HTTPS=true HOST=127.0.0.1 PORT=9999 SSL_CRT_FILE='ssl/127.0.0.1.pem' SSL_KEY_FILE='ssl/127.0.0.1-key.pem' react-scripts start"
   },
   "eslintConfig": {
     "extends": [
